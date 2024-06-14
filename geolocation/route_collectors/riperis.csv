@@ -1,0 +1,24 @@
+# These were manually extracted from https://ris.ripe.net/docs/route-collectors/ on the 14th of December, 2023.
+rrc00, NL, multihop
+rrc01, GB, singlehop
+rrc03, NL, singlehop
+rrc04, CH, singlehop
+rrc05, AT, singlehop
+rrc06, JP, singlehop
+rrc07, SE, singlehop
+rrc10, IT, singlehop
+rrc11, US, singlehop
+rrc12, DE, singlehop
+rrc13, RU, singlehop
+rrc14, US, singlehop
+rrc15, BR, singlehop
+rrc16, US, singlehop
+rrc18, ES, singlehop
+rrc19, ZA, singlehop
+rrc20, CH, singlehop
+rrc21, FR, singlehop
+rrc22, RO, singlehop
+rrc23, SG, singlehop
+rrc24, UY, multihop
+rrc25, NL, multihop
+rrc26, AE, singlehop

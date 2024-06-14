@@ -1,0 +1,3 @@
+The following command splits a BGP RIB snapshot to separate files based on the origin AS: 
+
+awk -F'|' '{origin = $12; sub(/.* /, "", origin); print >> ("2023-11-01_" origin "_routing_tables.csv")}' 2023-11-01_all_anycast_asns_XXX_routing_tables.csv

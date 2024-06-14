@@ -1,0 +1,5 @@
+routing_tables/input/bgp_streams_per_origin/*.csv
+routing_tables/input/raw_bgp_streams/*.csv
+routing_tables/output/*.json
+analysis/presence_of_neighbors/*.json
+anycast_catchment/output/available_pops_per_country.json
